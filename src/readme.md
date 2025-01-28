@@ -14,5 +14,5 @@ The project is a chatbot that uses the Gemini API to generate responses. The cha
 
 The Screenshot in the root folder is the end result of the project.
 
-To run the project first start the server by running the command "npm start" in the terminal. I hoep you enjoy the project.
-Then run the project by running the command "npm start" in the terminal.
+To run the project first start the server by running the command "node server.js" in the terminal. 
+Then run the project by running the command "npm start" in the terminal.I hoep you enjoy the project.
